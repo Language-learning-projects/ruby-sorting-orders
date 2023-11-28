@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Ruby sorting orders
 
 This repository contains code of a learning project called: "Ruby sorting orders".
